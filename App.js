@@ -8,7 +8,7 @@ import {
 const theme = {
   Button: {
     titleStyle: {
-      color: 'white',
+      color: 'red',
     },
   },
 };
